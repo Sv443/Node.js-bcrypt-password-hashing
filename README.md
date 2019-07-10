@@ -2,8 +2,7 @@
 ## This is an interactive example of how to hash passwords in Node.js very securely using bcrypt.
 
 <br><br>
-
-## WTFPL license - do whatever you wanna do with this code, you don't even have to credit me!
+**>> WTFPL license - do whatever you wanna do with this code, you don't even have to credit me!**
 
 <br><br><br>
 
