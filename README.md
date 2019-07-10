@@ -7,6 +7,7 @@
 <br><br><br>
 
 # Installation:
+(0. Make sure you have Node.js and npm installed)
 1. [Download](https://github.com/Sv443/Node.js-bcrypt-password-hashing/archive/master.zip) **or** clone this repository
 2. (If downloaded:) Extract the folder inside to somewhere like your Desktop **or** (if cloned:) go to the local directory of the cloned repository
 3. (Unix & Windows:) run the command `npm i` in a terminal inside of the dowloaded / cloned folder **or** (Windows only:) click the `Install Dependencies.bat` file
