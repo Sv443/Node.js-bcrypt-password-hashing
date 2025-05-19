@@ -9,6 +9,6 @@
   "author": "Sv443 <sven.fehler@web.de> (https://sv443.net/)",
   "license": "WTFPL",
   "dependencies": {
-    "bcrypt": "^5.0.0"
+    "bcrypt": "^6.0.0"
   }
 }
